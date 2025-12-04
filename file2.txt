@@ -1,0 +1,1 @@
+first content of file2.txt
