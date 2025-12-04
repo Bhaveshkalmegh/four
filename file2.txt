@@ -1,3 +1,6 @@
 first content of file2.txt
 
 added con
+
+
+add more content to file2.txtntent to file2.txt
